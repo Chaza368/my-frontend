@@ -26,3 +26,7 @@ pre {
   margin-top: 20px;
   font-family: monospace;
 }
+
+.clicked {
+  background-color: green;
+}
